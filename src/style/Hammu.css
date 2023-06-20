@@ -1,0 +1,18 @@
+.Hammu {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+}
+
+img {
+  width: 300px;
+  height: auto;
+}
+
+.hitCount {
+  font-size: 20px;
+}
