@@ -16,3 +16,8 @@ img {
 .hitCount {
   font-size: 20px;
 }
+
+.call {
+  position: absolute;
+  bottom: 40px;
+}
